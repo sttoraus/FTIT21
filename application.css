@@ -1,0 +1,28 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.label {
+-fx-font-family: "Helvetica";
+-fx-font-size: 19.0px;
+}
+
+.text-field {
+-fx-font-family: "Helvetica";
+-fx-font-size: 14.0px;
+}
+
+.button {
+-fx-font-family: "Helvetica";
+-fx-font-size: 14.0px;
+-fx-font-weight: bold;
+}
+.root{
+	 -fx-background-color: #777777;
+}
+
+#bmiRed{
+	-fx-font-size: 30.0px;
+	-fx-background-color: #ff0000;
+}
+#bmiGreen{
+	-fx-font-size: 30.0px;
+	-fx-background-color: #00ff00;
+}
